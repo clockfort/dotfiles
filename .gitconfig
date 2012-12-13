@@ -1,0 +1,7 @@
+[push]
+	default = simple
+[user]
+	email = clockfort@csh.rit.edu
+	name = Chris Lockfort
+[color]
+	ui = true
