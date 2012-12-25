@@ -1,0 +1,6 @@
+{
+	"add_to_PATH": ["/home/clockfort/.cabal/bin"],
+
+	// Use cabal-dev
+	"use_cabal_dev": true
+}
